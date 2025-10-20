@@ -1,0 +1,10 @@
+                ]}, {
+                width: 800,
+                height: 500,
+                dr: 4,
+                off: 15,
+                debug: 0,
+                single_click_expand: 1
+            })
+        });
+    </script>
